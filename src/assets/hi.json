@@ -1,0 +1,57 @@
+{
+  "enterphonenumber": "फोन नंबर दर्ज या फर्मबर नंबर दर्ज करे",
+  "pleasecheckyourmobilenumber": "कृपया अपना मोबाइल नंबर जांचें",
+  "somethingwentwrong": "कुछ गलत हो गया",
+  "hint_enterpin": "कृपया अपना पिन दर्ज करें",
+  "forget_pin": "पिन भूल गए",
+  "hint_otp": "OTP नंबर डालें",
+  "enterotpnumber": "OTP नंबर डालें",
+  "enter4digitpin": "4 अंक नया पिन दर्ज करें",
+  "confirmpin": "पिन की पुष्टि करें",
+  "entername": "नाम दर्ज करें",
+  "enetremail": "ईमेल दर्ज करें (वैकल्पिक)",
+  "hintotp": "OTP 6 अंकों का होना चाहिए",
+  "hintpin": "पिन 4 अंकों का होना चाहिए",
+  "hintconfpin": "पिन मेल नहीं खाता",
+  "hintname": "नाम कम से कम 3 वर्ण का होना चाहिए",
+  "clicktoconfirm": "CONFIRM पर क्लिक करें",
+  "enterpincode": "पिनकोड दर्ज करे",
+  "pincodehint": "कृपया सटीक न होने पर पिनकोड को अपडेट करें",
+
+  "enterfarmname": "फार्म का नाम दर्ज करें",
+  "farmberscircle": "किसान सर्किल",
+  "submit": "सम्मलित करें",
+  "history": "इतिहास",
+  "forecast": "इस तरह का अनुभव",
+  "avg_demand": "औसत मांग ",
+  "avg_supply": "औसत आपूर्ति",
+  "sure_lock_crop": "क्या आप वाकई लॉक करना चाहते हैं?",
+
+  "field_prep": "फील्ड प्रीप्रेशन",
+  "irrigation": "सिंचाई",
+  "weeding": "निराई",
+  "seeding": "बोने",
+  "harvest": "कटाई",
+  "new_pin": "नया पिन",
+
+  "name": "नाम",
+  "position": "पद",
+  "proffesion": "व्यवसाय",
+  "adress": "पता",
+  "locality": "इलाका",
+  "city": "शहर",
+  "state": "राज्य",
+  "pincode": "पिन कोड",
+  "bio": "लघु प्रोफ़ाइल / जैव",
+
+  "notification": "सूचनाएं",
+  "privacy_policy": "गोपनीयता नीति",
+  "term_cond": "नियम और शर्तें",
+  "help_cntr": "सहायता केंद्र",
+  "about_us": "हमारे बारे में",
+  "log_out": "लॉग आउट"
+
+ 
+
+
+}

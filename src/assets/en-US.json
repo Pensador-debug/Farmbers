@@ -1,0 +1,59 @@
+{
+  "enterphonenumber": "Enter Phone Number or Farmber Id",
+  "pleasecheckyourmobilenumber": "Please check your Mobile Number",
+  "somethingwentwrong": "Something Went Wrong",
+  "hint_enterpin": "Please Enter your PIN",
+  "forget_pin": "Forgot Pin",
+  "hint_otp": "Enter OTP Number",
+  "enterotpnumber": "Enter OTP Number",
+  "enter4digitpin": "Enter 4 digit New PIN",
+  "confirmpin": "Confirm PIN",
+  "entername": "Enter Name",
+  "enetremail": "Enter Email (Optional)",
+  "hintotp": "OTP should be 6 digit",
+  "hintpin": "PIN should be 4 digit",
+  "hintconfpin": "PIN does not match",
+  "hintname": "Name should be at least 3 character",
+  "clicktoconfirm": "CLICK TO CONFIRM",
+  "enterpincode": "Enter Pincode",
+  "pincodehint": "Please update pincode if not accurate",
+
+  "enterfarmname": "Enter Farm Name",
+  "farmberscircle": "Farmbers Circle ",
+  "submit": "Submit",
+  "history": "History",
+  "forecast": "Forecast",
+  "avg_demand": "Average Demand",
+  "avg_supply": "Average Supply",
+  "sure_lock_crop": "Are you sure you want to lock",
+
+  "field_prep": "Field Prepration",
+  "irrigation": "Irrigagtion",
+  "weeding": "Weeding",
+  "seeding": "Seeding",
+  "harvest": "Harvest",
+  "new_pin": "New PIN",
+
+  "name": "Name",
+  "position": "Position",
+  "proffesion": "Profession",
+  "adress": "Address",
+  "locality": "Locality",
+  "city": "City",
+  "state": "State",
+  "pincode": "Pincode",
+  "bio": "Short Profile / Bio",
+
+  "notification": "Notifications",
+  "privacy_policy": "Privacy Policy",
+  "term_cond": "Terms and Conditions",
+  "help_cntr": "Help center",
+  "about_us": "About US",
+  "log_out": "Log out"
+
+
+  
+  
+
+
+}
